@@ -8,7 +8,7 @@ import FaqSection from "@/components/sections/FaqSection";
 
 export default function Home() {
   return (
-    <main>
+    <>
       <HeroSection />
       <StatsSection />
       <ClientLogos />
@@ -16,6 +16,6 @@ export default function Home() {
       <DeliveryProcess />
       <Testimonials />
       <FaqSection />
-    </main>
+    </>
   );
 }
