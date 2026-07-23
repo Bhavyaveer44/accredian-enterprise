@@ -1,7 +1,8 @@
 # Accredian Enterprise - Landing Page Clone
 
-Live Demo: _TBD_
-Repository: _TBD_
+Live Demo: https://accredian-enterprise-orpin.vercel.app
+
+Repository: https://github.com/Bhavyaveer44/accredian-enterprise
 
 ## Approach & Architecture
 - **App Router Architecture:** Modular component structure divided into atomic layout elements, section wrappers, and reusable UI primitives.
